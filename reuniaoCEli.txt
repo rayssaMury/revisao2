@@ -1,7 +1,7 @@
 Celi: Centro de Educação e Linguagens;
 Inicialmente era um projeto, mas se tornou um programa de extensão;
 Certificado emitido pelo DEAC, que atualmente são mantidos os emails em planilha excel;
-A divulgação do programa tem que ser melhorada
+A divulgação do programa tem que ser melhorada para que mais pessoas sejam alcançadas, quando o site for criado, a previsão é que essa melhoria aconteça. 
 Equipe: Alessandra, Simone, Gustavo (bolsista) e um voluntário);
 Eventos: palestras, eventos esportivos, atividades da instituição; 
 As inscrições para esses eventos aconteceriam pelo site, de uma maneira digitalizada.
