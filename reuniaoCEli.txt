@@ -14,7 +14,7 @@ Informações necessárias para inscrição: nome completo, telefone, email e pe
 Acessibilização de planfetos de divulgação;
 Existe um problema de armazenamento e organização;
 as informações são armazenadas no onedrive;
-O programa precisa de um banco de dados que melhore o armazenamento de informações e otimize a funcionalidade; 
+O programa precisa de um banco de dados que melhore o armazenamento de informações e otimize a funcionalidade; Esse banco de dados armazenaria arquivos antigos do prgrama também;
 esse banco de dados teria um nível de acesso para adm; 
 A digitalização de arquivos antigos será necessária; 
 Dentro do site que será criado é necessário que exista acessibilidade para pessoas com deficiência visual e auditiva; 
