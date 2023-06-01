@@ -1,0 +1,30 @@
+Celi: Centro de Educação e Linguagens;
+Inicialmente era um projeto, mas se tornou um programa de extensão;
+Certificado emitido pelo DEAC, que atualmente são mantidos os emails em planilha excel;
+A divulgação do programa tem que ser melhorada
+Equipe: Alessandra, Simone, Gustavo (bolsista) e um voluntário);
+Eventos: palestras, eventos esportivos, atividades da instituição; 
+As inscrições para esses eventos aconteceriam pelo site, de uma maneira digitalizada.
+Informações necessárias para inscrição: nome completo, telefone, email e permição para uso de imagem padrão; 
+Acessibilização de planfetos de divulgação;
+Existe um problema de armazenamento e organização;
+as informações são armazenadas no onedrive;
+O programa precisa de um banco de dados que melhore o armazenamento de informações e otimize a funcionalidade; 
+esse banco de dados teria um nível de acesso para adm; 
+A digitalização de arquivos antigos será necessária; 
+Dentro do site que será criado é necessário que exista acessibilidade para pessoas com deficiência visual e auditiva; 
+É necessário a criação de um espaço para visitantes, organizadores e para adm; 
+Visitantes:conhecer projetos, cursos e eventos e se inscrever neles; 
+Organizadores:controle de inscritos no programa, cronograma e acesso à tudo que necessitam (solicitado no formulário de inscrição);
+Adm: controle de eventos, cursos, projetos, inscritosprojetos solicitados, material solicitado, espaço e toda a parte de gestão;
+O site terá também um espaço para a apresentação da equipe, cŕedito aos desenvolvedores, aba pra apresentar eventos e cursos atuais,link específico para adm e organizadores; 
+Projetos propostos: 
+-olhos meus (fixo)
+-línguas surdas (fixo)
+-inglês (fixo anteriomente)
+-espanhol (fixo anteriomente)
+-bússula acadêmica (pendente)
+-evento CefeTalent (anual) 
+-CESINF (ocorria no passado mas existe interesse em traze-lo de volta)
+
+
